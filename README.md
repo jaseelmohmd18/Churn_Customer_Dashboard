@@ -28,10 +28,9 @@ The data for this churn analysis project comes from a SQL Server database where 
 -Customer segmentation and churn calculation using DAX
 -Interactive charts such as trend lines, bar charts, and scorecards
 -Filters and slicers to explore churn by time period, customer segment, or product
+-Clear visuals to identify patterns and drivers of churn
+-Dashboard designed for business insights and decision-making
 
-6. Screenshot / Demo
+6. Screenshot /  Demo
 
 
-Clear visuals to identify patterns and drivers of churn
-
-Dashboard designed for business insights and decision-making
