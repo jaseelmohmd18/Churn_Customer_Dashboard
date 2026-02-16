@@ -33,4 +33,6 @@ The data for this churn analysis project comes from a SQL Server database where 
 
 6. Screenshot /  Demo
 
+https://github.com/jaseelmohmd18/Churn_Customer_Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%203.png
+
 
